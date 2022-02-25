@@ -1,0 +1,570 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God's court wherein the dignity and duty of judges and magistrates is shew'd in a sermon preached at the assises held at Kingston upon Thames, July 26, 1683 / by Thomas Willis ...</title>
+            <author>Willis, Thomas, 1619 or 20-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66487</idno>
+            <idno type="STC">Wing W2818</idno>
+            <idno type="STC">ESTC R7864</idno>
+            <idno type="EEBO-CITATION">12528950</idno>
+            <idno type="OCLC">ocm 12528950</idno>
+            <idno type="VID">62732</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62732)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 952:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God's court wherein the dignity and duty of judges and magistrates is shew'd in a sermon preached at the assises held at Kingston upon Thames, July 26, 1683 / by Thomas Willis ...</title>
+                  <author>Willis, Thomas, 1619 or 20-1692.</author>
+               </titleStmt>
+               <extent>[6], 37 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.W. for Ralph Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Hebrew at head of title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Justice --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62732:1"/>
+            <pb facs="tcp:62732:1"/>
+            <p>לא-עדח <hi>GOD's COURT:</hi> WHEREIN The DIGNITY and DUTY OF <hi>Iudges</hi> and <hi>Magiſtrates,</hi> Is ſhew'd in a SERMON Preached at the ASSISES Held at <hi>KINGSTON</hi> upon <hi>THAMES, July</hi> 26. 1683. By THOMAS WILLIS, D. D. Chaplain in Ordinary to His MAJESTY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>B.W.</hi> for <hi>Ralph Smith,</hi> at the Sign of the <hi>Bible</hi> in the <hi>Piazza</hi> under the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi> MDCLXXXIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62732:2"/>
+            <pb facs="tcp:62732:2"/>
+            <head>To the Worſhipful <hi>ANTHONY RAWLINS,</hi> Eſq; High Sheriff of the County OF SURREY.</head>
+            <opener>
+               <salute>Honoured SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HIS World, a moſt ſtately Stru<g ref="char:EOLhyphen"/>cture, was made to be a <hi>Temple</hi> to the Eternal Divinitie. For <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> which is the Holy Worſhip of GOD, is the great End of the Life and Being of man, for whom this World was made. Man is both the <hi>World's Ora<g ref="char:EOLhyphen"/>tour</hi> and <hi>GOD's Prieſt:</hi> He, in the behalf of all the Creatures, is to <hi>ſpeak the Praiſes</hi> of GOD, and offer<g ref="char:EOLhyphen"/>ing them up as a <hi>Spiritual Sacrifice</hi> at GOD's Altar,
+<pb facs="tcp:62732:3"/>to implore His Aid and Bleſſing upon all his Underta<g ref="char:EOLhyphen"/>kings. And for all the Good he receives and enjoys, he is devoutly to give the Glory to GOD.</p>
+            <p>All Civil Adminiſtrations and ſecular Affairs are ſanctify'd by Religion. The Law of Religion is writ<g ref="char:EOLhyphen"/>ten in the Nature of man; and its Obligations inforc'd by Reaſon. The Heathens in all great Affairs, were wont to make humble Addreſſes to the ſuppoſed Divini<g ref="char:EOLhyphen"/>ties they adored. The greateſt Perſons among them, before they undertook any Matter of Weight or Impor<g ref="char:EOLhyphen"/>tance, would have Recourſe to ſome <hi>Temple of the Gods,</hi> to ask Counſel, to offer up their Vows, and to implore their Aid for a good Succeſs. And when they were guided by <hi>Oracles,</hi> they proceeded with as much Courage and Confidence, as if they expected to be proſper'd by <hi>Miracles,</hi> in the Purſuit of their Deſigns. And when they ſucceeded in their great Attempts, and attain'd their End, they honour'd their Gods as the Au<g ref="char:EOLhyphen"/>thors of their happineſs, by Religious Acknowledg<g ref="char:EOLhyphen"/>ments and rich Oblations. How much more does it become Chriſtians, to whom the only true GOD hath not only reveal'd Himſelf in the Greatneſs of His Power, and Glories of his Grace, but alſo by a firm Covenant, obliged Himſelf to be their GOD, and to do them Good, in all their Undertakings to make their Addreſſes to Him for Direction, Aſſiſtance and good Succeſs! How well does it become <hi>Judges and Magiſtrates,</hi> who have ſo great a <hi>Power and
+<pb facs="tcp:62732:3"/>Truſt,</hi> both as to the Laws, and the Lives of men, when they enter upon a Work of ſo great Importance, as the Peace and Welfare of the King and People, to go to meet GOD in <hi>His Houſe,</hi> who as Supreme Lord and Judge preſides in <hi>their Court!</hi> 'Tis by Authority derived from GOD, they ſit to judge men: and 'tis by the Light of His Wiſdom, and Influence of his Grace that they err not in Judgment. When a Judge comes out of the <hi>Church</hi> into the <hi>Court,</hi> he appears with more <hi>Majeſty,</hi> as a God coming out of Heaven to adminiſter Juſtice to men on Earth. When a Judge has firſt hearkened to the Voice of GOD, declaring His Will to him in his Word, he comes with more <hi>Autho<g ref="char:EOLhyphen"/>rity</hi>-to execute his Office, and ought to be attended with more Regard, as a Perſon who comes with Inſtru<g ref="char:EOLhyphen"/>ctions from the King, and Injunctions from GOD. And this is agreeable to what the Goſpel requires, that <hi>what ever</hi> a man does, he ſhould <hi>do it in the Name of Chriſt, and for the Glory of GOD.</hi>
+            </p>
+            <p>Now, Sir, the <hi>Solemnity of Religion,</hi> prepa<g ref="char:EOLhyphen"/>ratory to the Adminiſtration of Juſtice, was by your Appointment and Command, committed to my Care. The following Diſcourſe prepar'd for that Purpoſe, tho' ſomewhat contracted in the Delivery, I have here, in Obedience to your Command, preſented to you entire; hoping that, at leaſt, it may ſerve for a <hi>Memoriall of that Honour,</hi> which His <hi>Majeſty,</hi> our moſt Gracious Sovereign, hath been pleaſed to confer upon you, in
+<pb facs="tcp:62732:4"/>appointing you, in ſo perillous a Time, to be the <hi>Guar<g ref="char:EOLhyphen"/>dian of Publick Juſtice,</hi> and in accounting you a fit Perſon to be intruſted with the armed <hi>Power of the whole Countie</hi> for the Defence and Safety both of the King and his People. 'Tis a mighty Truſt in a Day of ſo great Danger, wherein wicked men have made <hi>a blou<g ref="char:EOLhyphen"/>dy Conſpiracy</hi> againſt the Life of our Sovereign, which ought to be <hi>Ten Thouſand</hi> times dearer to eve<g ref="char:EOLhyphen"/>ry one of us than our own Lives.
+<note place="margin">2 Sam. 18.3.</note> But that Almighty GOD, in whoſe Hand are the Lives of Kings, will graciouſly be pleaſed long to preſerve the precious Life of our preſent Gracious Sovereign, from all the Machi<g ref="char:EOLhyphen"/>nations of his wicked Enemies, and at laſt, after a long and happy Reign on Earth, crown him with eternal Glory in Heaven, is (I am well aſſured) the hearty Deſire and Prayer of all his Loyall Subjects, and a<g ref="char:EOLhyphen"/>mongſt them of</p>
+            <closer>
+               <salute>(Worthy Sir)</salute>
+               <signed>
+                  <hi>Your moſt humble Servant,</hi> Tho. Willis.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:62732:4"/>
+            <head>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>GOD's COURE:</hi> AN ASSISE-SERMON; SHEWING The DIGNITY and DUTY OF Judges and Magiſtrates.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. LXXXII. i.</hi>
+                  </bibl>
+                  <p>GOD ſtandeth in the Congregation of the Mighty: He judgeth among the Gods.</p>
+               </q>
+            </epigraph>
+            <p>THE Actions of men eminent in Place and Power, are of much greater Importance than what's done by inferiour Perſons. The Greater Stars give the clearer Light, and have the ſtronger Influence. The Good or Hurt of many, the Welfare or Infelicity of Thouſands, oft de<g ref="char:EOLhyphen"/>pends
+<pb n="2" facs="tcp:62732:5"/>upon the Actions of ſome few <hi>Great men.</hi> Their more notable Miſcarriages oft prove Epidemicall Miſ<g ref="char:EOLhyphen"/>chiefs; whereas by their wiſe Management of great Affairs, men enjoy much Tranquillity, with <hi>Abundance</hi> of the Bleſſings <hi>of Peace.</hi> Now nothing does more conduce to engage ſuch Perſons to a ſerious Care in the menage of important Matters than a lively Senſe of the Divine Preſence. For as <hi>mean men</hi> are mightily over-aw'd by the Preſence of a King, and ſo eaſily re<g ref="char:EOLhyphen"/>ſtrain'd from an indecent Rudeneſs, and induc't to a civil Behaviour, and good Government of themſelves: ſo muſt <hi>Great men,</hi> in all Reaſon, be powerfully influ<g ref="char:EOLhyphen"/>enc't by the Preſence of the moſt high God, who is infi<g ref="char:EOLhyphen"/>nitely more above them in Wiſdom, Greatneſs, Power, than the Greateſt King above the meaneſt men. No<g ref="char:EOLhyphen"/>thing therefore can be more proper and powerful to in<g ref="char:EOLhyphen"/>duce Judges and Magiſtrates to a due Execution of their Office, when they are aſſembled in a Court of Juſtice, than a clear Apprehenſion, a firm Perſuaſion, and a full Aſſurance that Almighty GOD, the Great Judge of the World, is preſent with them as Judge and King. And nothing is more certain. For, ſaith the Word of Truth, <hi>God ſtandeth in the Congregation of the Mighty: He judgeth among the Gods.</hi>
+            </p>
+            <p>Now who are <hi>the Mighty, the Gods</hi> here mention'd, but <hi>Judges and Magiſtrates?</hi> What is this <hi>Congregation of the Mighty,</hi> but a <hi>Court of Juſtice?</hi> And who is this <hi>Glorious Perſon,</hi> who ſtands in the Court, and ſuperin<g ref="char:EOLhyphen"/>tends in Judgment: 'Tis GOD Himſelf. <hi>GOD ſtandeth in the Congregation of the Mighty: He judgeth among the Gods.</hi>
+            </p>
+            <p>Here then we have a fair Proſpect into a large Field of Diſcourſe. Let's here make a little Stand, and take a diſtinct View of the more remarkable Things, which preſent themſelves to our Eye. And lets in the firſt
+<pb n="3" facs="tcp:62732:5"/>Place view thoſe <hi>Great and Splendid Titles,</hi> which are here given to Judges and Magiſtrates, and conſider the Import and Reaſon of them. Then let's caſt our Eye upon the <hi>Court,</hi> where the Perſons adorn'd and digni<g ref="char:EOLhyphen"/>fy'd with theſe Titles are aſſembled, and conſider the Reaſon of their Convention and Aſſociation. And laſt<g ref="char:EOLhyphen"/>ly let's take ſpecial Notice of that <hi>bright Glory</hi> that reſts upon them, which reſults from the <hi>Divine Preſence</hi> among them, and conſider what Influence this ſhould have upon their Actions and Attendants, and eſpecial<g ref="char:EOLhyphen"/>ly thoſe who have any particular Concern in the Court.</p>
+            <p>The <hi>Titles</hi> here given to Judges and Magiſtrates are very illuſtrious: they are call'd <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> E L and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> E<g ref="char:EOLhyphen"/>LOHIM, <hi>the Mighty, the Gods,</hi> or the Mighty Gods. Both theſe Titles are the <hi>Names of GOD,</hi> even of the moſt High GOD, by which He is moſt uſually call'd in the Holy Scripture, They both ſignify <hi>Might and Power,</hi> with a ſpecial Reference to <hi>Juſtice and Judgment.</hi> For <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ELOHIM (as the <hi>Hebrews</hi> obſerve) is a <hi>Name of Judgment;</hi> as <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> JEHOVAH is a <hi>Name of Grace.</hi> So it's ſaid <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ELOHIM SHOPHET,
+<note place="margin">Pſal. 75.7.</note> 
+               <hi>GOD is Judge: He putteth down one, and ſetteth up ano<g ref="char:EOLhyphen"/>ther.</hi> And by this Name are Judges call'd in the Law of <hi>Moſes.</hi> For it is ſaid, <hi>For all manner of Treſpaſs,
+<note place="margin">Exo. 22.9.</note> whe<g ref="char:EOLhyphen"/>ther it be for Ox, for Aſs, for Sheep, for Raiment, or for any manner of loſt Thing, which another challengeth to be his, the Cauſe of both Parties ſhall come</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> AD HAELOHIM, <hi>before the Judges; and whom</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> LOHIM <hi>the Judges ſhall condemn, he ſhall pay double unto his Neighbour.</hi> And ſo likewiſe is the Name <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> EL given to GOD when He is ſpoken of as a juſt and im<g ref="char:EOLhyphen"/>partial Judge.
+<note place="margin">Deut. 10.17, 18.</note> 
+               <hi>For the LORD your GOD</hi> (ſaies <hi>Moſes</hi> to Iſrael) <hi>is GOD of Gods, and LORD of Lords,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> HAEL HAGGADOL, <hi>a Great GOD, a migh<g ref="char:EOLhyphen"/>ty
+<pb n="4" facs="tcp:62732:6"/>and a terrible, which regardeth not Perſons, nor taketh Reward. He doth execute the Judgment of the Fatherleſs and the Widow.</hi> And therefore ſaith <hi>Bildad</hi> in <hi>Job,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Doth EL,
+<note place="margin">Job, 8.3.</note> GOD pervert Judgment? or doth the Almighty pervert Juſtice?</hi>
+            </p>
+            <p>Strength and Power for Judgment then is the Im<g ref="char:EOLhyphen"/>port of theſe Names which are here given to Judges. And therefore, when GOD is repreſented as coming forth in his terrible Majeſty, with Power and great Glory, to judge the whole World in Righteouſneſs, both theſe Names are given to Him. For it's ſaid, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> EL ELOHIM,
+<note place="margin">Pſal. 50.1-6.</note> 
+               <hi>The Mighty GOD, even the LORD hath ſpoken, and called the Earth, even from the riſing of the Sun, unto the going down thereof. Out of Zi<g ref="char:EOLhyphen"/>on the Perfection of Beauty</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>GOD, even</hi> ELO<g ref="char:EOLhyphen"/>HIM <hi>the Mighty GOD, hath ſhined.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Our GOD,</hi> even ELOHIM <hi>the Mighty Judge ſhall come, and ſhall not keep Silence. A Fire ſhall devour before Him, and it ſhall be very tempeſtuous round about Him. He ſhall call to the Heavens from above, and to the Earth that He may judge His People. Gather my Saints together unto me, thoſe who have made a Covenant with me by Sacrifice. And the Hea<g ref="char:EOLhyphen"/>vens ſhall declare his Righteouſneſs:</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>For GOD,</hi> ELOHIM, <hi>the Mighty GOD, He is Judge;</hi> or (as we render it) <hi>GOD is Judge Himſelf.</hi>
+            </p>
+            <p>Thus we have ſeen the <hi>Import</hi> of the Names or Ti<g ref="char:EOLhyphen"/>tles here given to Judges and Magiſtrates: let's now conſider for what <hi>Reaſon</hi> they are given to them.</p>
+            <p>They are certainly given them <hi>Honoris &amp; Officii gra<g ref="char:EOLhyphen"/>tiâ,</hi> to put an <hi>Honour</hi> upon them, to diſcriminate them from others of an inferiour Rank and Order in the World; and to oblige them to ſuch an Execution of their <hi>Office,</hi> as becomes them who are dignify'd with ſo great an Honour.</p>
+            <pb n="5" facs="tcp:62732:6"/>
+            <p>'Tis ſure no ſmall Honour to Judges and Magiſtrates, that GOD hath intruſted them with the <hi>Balances of Ju<g ref="char:EOLhyphen"/>ſtice,</hi> arm'd them with his own <hi>glittering Sword,</hi> and put into their Hands his <hi>Thunder and Lightening,</hi> even the Terrours of the Law, which may make them for<g ref="char:EOLhyphen"/>midable to guilty men: but this Honour receives a mighty Augmentation by this, that he hath graciouſly been pleas'd to communicate to them His <hi>own Names,</hi> which primarily and moſt properly pertain unto Him<g ref="char:EOLhyphen"/>ſelf; even <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> EL, and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ELOHIM, in that they are call'd the <hi>Mighty,</hi> ſtiled <hi>Gods.</hi> What greater Glory could GOD put upon men? When GOD, as a To<g ref="char:EOLhyphen"/>ken of his Favour, chang'd the Names of <hi>Abram</hi> and <hi>Sarai,</hi> as a <hi>Mark of Honour,</hi> He added only to each of them one Letter of his own glorious Name, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> JE<g ref="char:EOLhyphen"/>HOVAH, calling him <hi>ABRAHAM,</hi> and her <hi>SARAH.</hi>
+               <note place="margin">Gen. 17.9.15.</note> But behold here, not a Letter of any Name of GOD, but his very <hi>Name,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> EL, GOD, the Mighty GOD, is here given to Judges and Magiſtrates. Yea, the ve<g ref="char:EOLhyphen"/>ry ſame Name, which GOD, upon the Account of His Power and Judgment, aſſumes to Himſelf, He here given unto them. For it's here ſaid, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> E<g ref="char:EOLhyphen"/>LOHIM, <hi>GOD ſtandeth in the Congregation of</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> EL, <hi>the Mighty: He judges among</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ELOHIM, <hi>the Gods.</hi> What more magnificent can be ſpoken of them? And the Greatneſs of Him that ſpeaks it, makes the Glory greater to them. If the King give a <hi>Title of Honour</hi> to a man, it remains with him, and puts a Luſtre upon his Perſon: If GOD Himſelf give a <hi>Ti<g ref="char:EOLhyphen"/>tle of Honour</hi> to a man, it makes him truly honourable. And tho' the King gives many Titles of Honour to his Subjects, He reſerves that of King to himſelf: this is a <hi>Glory</hi> which he will <hi>not give to another.</hi> But behold here GOD gives the Title of <hi>Gods</hi> to men. In confer<g ref="char:EOLhyphen"/>ring
+<pb n="6" facs="tcp:62732:7"/>of Honour, the King makes not men <hi>Kings:</hi> but GOD makes men <hi>Gods.</hi> Such are Judges and Magi<g ref="char:EOLhyphen"/>ſtrates in the Sacred Style;
+<note place="margin">Pſal. 82.6.</note> 
+               <hi>I have ſaid, Ye are Gods.</hi> Such is the Honour of thoſe Perſons, whom <hi>the King of Kings delights to Honour.</hi> The Senate of <hi>Rome</hi> ſeem'd to <hi>Cineas</hi> (Ambaſſadour of King <hi>Pyrrhus</hi>) a <hi>Council Houſe of Kings:</hi>
+               <note place="margin">
+                  <hi>Plat.</hi> in <hi>Pyrrbus.</hi>
+               </note> but a Court of Juſtice, where the Mighty are aſſembled for Judgment, is a <hi>Congrega<g ref="char:EOLhyphen"/>tion of Gods.</hi>
+            </p>
+            <p>Now GOD puts this Honour upon Judges and Ma<g ref="char:EOLhyphen"/>giſtrates, becauſe they are to <hi>repreſent his Perſon</hi> in the Execution of their Office; and to procure them the greater <hi>Reverence and Veneration</hi> from men, that the Majeſty of Juſtice, which is deſign'd to over-awe men to Obedience, may not be obſcur'd by the Contempt of the Perſons, who are authoriz'd for the Adminiſtra<g ref="char:EOLhyphen"/>tion of it. And when men give Honour to a Magiſtrate, to a Judge, as GOD's Repreſentative, they do in effect give Glory to GOD, who hath given ſuch Power and Authority to men. And thus there is, and ought to be, a conſtant <hi>Circulation of Honour;</hi> which as it Originally comes from GOD, ſo ſhould it ultimately return to Him,
+<note place="margin">Rev. 22.13.</note> who is <hi>the Firſt and the Laſt, the Beginning and the Ending;</hi> the firſt Cauſe, and laſt End of all things. All the <hi>Streams</hi> of Excellency and Honour, which flow from Him as their firſt <hi>Fountain</hi> and Originall, ſhould return to Him, and empty themſelves into the im<g ref="char:EOLhyphen"/>menſe <hi>Ocean</hi> of His Glory.</p>
+            <p>Now as GOD by giving theſe Names to Judges and Magiſtrates, puts a Luſtre upon their Perſons, and in<g ref="char:EOLhyphen"/>circles them with a Glory, to ſecure them from Con<g ref="char:EOLhyphen"/>tempt: ſo He mightily obliges them hereby to ſuch a <hi>Diſcharge of their Duty,</hi> as that there may be a viſible
+<pb n="7" facs="tcp:62732:7"/>Correſpondency in their Actions to the Excellency of their Titles; and the Luſtre and Glory of theſe Great Names, may ſhine forth in the Execution of their Of<g ref="char:EOLhyphen"/>fice. Thoſe who are ſtiled Gods, ſhould excell in thoſe <hi>Virtues,</hi> which are the lively Images of the Divine Perfections, even of thoſe Excellencies which are the Glories of God, as the Supreme Lord and Judge of the World. Such are <hi>Wiſdom, Juſtice, Mercy, Fortitude and Truth.</hi> Theſe are as the bright Raies of the Sun wherein the eternal Divinity ſhines forth with an amiable Luſtre, in the Government of the World. And the Gods on Earth ſhould array themſelves with theſe Beams and Beauties: and that they may manifeſt themſelves to be what they are call'd, they ſhould ſo demean themſelves that theſe <hi>Virtues and Excellencies</hi> may appear in their Adminiſtrations.</p>
+            <p>
+               <hi>Wiſdom</hi> is a Virtue which ſhould never be wanting in Judges and Magiſtrates.
+<note place="margin">Eccleſ. 8.1.</note> 'Twas the <hi>Wiſdom of Solo<g ref="char:EOLhyphen"/>mon</hi> which made his <hi>Face to ſhine</hi> with ſo bright a Lu<g ref="char:EOLhyphen"/>ſtre, when he ſate <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, glittering in his Glory and Majeſty upon the Tribunal. In his clear Deciſion of the doubtful Caſe betwixt the <hi>two Harlots,</hi>
+               <note place="margin">1 King. 3.28.</note> both plead<g ref="char:EOLhyphen"/>ing for one living Child, all the World admir'd his Wiſdom. This was an early Glory of his Government, which render'd him truly Great in the Eyes of his Sub<g ref="char:EOLhyphen"/>jects. Wiſdom in a King or a Judge is an <hi>Angelicall Excellency,</hi> a Ray of Divinity. So it was ſaid of <hi>David; As an Angel of GOD, ſo is my Lord the King,
+<note place="margin">2 Sam. 14.19.</note> to diſcern good and bad.</hi> This diſcerning Faculty is a neceſ<g ref="char:EOLhyphen"/>ſary Virtue in a Judge or Magiſtrate, without which he cannot rightly adminiſter Juſtice and Judg<g ref="char:EOLhyphen"/>ment
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Iſid. Peluſ l. 3, Ep. 9.</note>. He muſt have a <hi>piercing Eye</hi> to look through the <hi>Diſguiſes</hi> wherewith guilty men are wont to hide the Truth, and palliate their Crimes. Truth is oft hud<g ref="char:EOLhyphen"/>led
+<pb n="8" facs="tcp:62732:8"/>up in Darkneſs, and hidden from the Eyes of men. A ſtrict Scrutiny is then neceſſary to a right Judgment. This was the Practice of <hi>Patient Job</hi> in his Proſperous State;
+<note place="margin">Job 29.16.</note> 
+               <hi>The Cauſe which I knew not, I ſearched out.</hi>
+            </p>
+            <p>
+               <hi>Politicall Wiſdom,</hi> which ſtands in the Knowledge of Laws, and an Ability to apply that Knowledge to Practice, in all emergent Caſes, and to make a right Judgment of Things in various Circumſtances, is a Virtue without which it is not imaginable the Office of a Judge or Magiſtrate ſhould be rightly executed. For as Juſtice is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Plato.</note> 
+               <hi>the prop of Cities,</hi> the ſtrength of Societies, the Support of Kingdoms: ſo Wiſdom is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Orpheus.</note> the <hi>Eye of Juſtice.</hi> Without this, Juſtice is blind; and that Sword oft wounds the Inno<g ref="char:EOLhyphen"/>cent which ſhould Defend them, and ſlay the Guilty.</p>
+            <p>But <hi>Juſtice</hi> thus guided by Wiſdom, is an eſſential Excellency of a Good Ruler, a God like Judge. For, <hi>He that ruleth over men muſt be juſt,
+<note place="margin">2 Sam. 23.3.</note> ruling in the Fear of GOD.</hi> And 'tis impartiall Juſtice, which <hi>Moſes</hi> the Great Law giver requires in Judges, in <hi>the Charge</hi> which he gave them,
+<note place="margin">Deut. 1.16, 17.</note> ſaying, <hi>Hear the Cauſes between your Brethren, and judge righteouſly between every man, and his Brother and the Stranger that is with him. Ye ſhall not reſpect Perſons in Judgment; but ye ſhall hear the ſmall as well as the Great: ye ſhall not be afraid of the Face of man; for the Judgment is GOD's.</hi> For when Judges proceed according to the Divine Law, which is the moſt exact <hi>Rule of Juſtice,</hi> the Sentence they pronounce, either when they abſolve the Innocent, or condemn the Guilty, is none other than that which GOD Himſelf, the Supreme Judge, hath already pronounc't in his Law.</p>
+            <p>A Judge therefore making the Divine Law his Rule in Judgment, muſt not acquit the Guilty, nor condemn the Righteous.
+<note place="margin">Prov. 17.15.</note> For <hi>he that juſtifieth the wicked, and he
+<pb n="9" facs="tcp:62732:8"/>that condemneth the juſt, even they both are an Abomina<g ref="char:EOLhyphen"/>tion to the LORD.</hi> And he that either for <hi>Fear or Favour</hi> acquits a Great Offendour, ſhall not only be ha<g ref="char:EOLhyphen"/>ted of God, but alſo abhorr'd of men. For,
+<note place="margin">Prov. 24.23, 24.</note> 
+               <hi>He that ſaith to the Wicked, Thou art Righteous; him ſhall the people curſe, Nations ſhall abhor him.</hi> He that a<g ref="char:EOLhyphen"/>gainſt the Light of his own Conſcience, either acquits the Guilty, or condemns the Innocent, draws a woful Guilt upon his own Soul; the Guilt of the Crime com<g ref="char:EOLhyphen"/>mitted, or the Bloud ſhed; and GOD will require it at his Hand.</p>
+            <p>Juſtice is the Glory of the King, and therefore ſhould be the Care of the Judge. When <hi>Siſamnes,</hi>
+               <note place="margin">
+                  <hi>Herod. l.</hi> 5.</note> one of the chiefeſt of the <hi>Perſian</hi> Judges, had given an unjuſt Judg<g ref="char:EOLhyphen"/>ment, <hi>Cambyſes</hi> the King cauſed him to be flay'd alive, and his Skin (as a bloudy Trophee of the Triumph of Juſtice over an unjuſt Judge) to be hung up over the Judgment-Seat, for a Warning to all others.</p>
+            <p>Judges ſtand in the ſtead of GOD; and therefore they ſhould depoſe all Humane Reſpects, and as <hi>Divine Perſons,</hi> do what may be rationally conceiv'd GOD Himſelf, who is eſſentially Juſt, in the like Caſe would do. A Judge ſhould ſo act in all Adminiſtrations, as if he was nothing elſe but <hi>Juſtice incarnate.</hi> So exact<g ref="char:EOLhyphen"/>ly, impartially Juſt ſhould Judges be, as if they were (what St.
+<note place="margin">Acts 14.11.</note> 
+               <hi>Paul and Barnabas</hi> were thought to be) <hi>Gods come down from Heaven in the Likeneſs of men.</hi> And therefore they muſt be ſuch whoſe Eyes are not dazled with the Luſtre of Gold, nor Hands open'd to receive Gifts. For how abſurd is it that (as it is in the ancient Proverb
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Deut. 16.18, 19, 20.</note>) The <hi>Hare</hi> ſhould draw the <hi>Lyon</hi> with a golden Snare! <hi>Judges and Officers</hi> (ſaies <hi>Moſes</hi>) <hi>ſhalt thou make thee in all thy Gates, which the LORD thy GOD giveth thee throughout all thy Tribes: and they ſhall judge the People with juſt Judgment. Thou ſhalt not wreſt Judg<g ref="char:EOLhyphen"/>ment,
+<pb n="10" facs="tcp:62732:9"/>thou ſhalt not reſpect Perſons, neither take a Gift: for a Gift doth blind the Eyes of the Wiſe, and pervert the Words of the Righteous.
+<note n="*" place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Juſtice, Juſtice,</hi> or, <hi>that which is altogether juſt ſhalt thou follow.</hi> It ſhould be as eaſy to turn the Sun from his Courſe, as to divert a Judge from the Courſe of Juſtice.</p>
+            <p>And yet muſt a Judge or Magiſtrate ſo do Juſtice, as not to forget ſeaſonably to ſhew <hi>Mercy,</hi> when fit occaſi<g ref="char:EOLhyphen"/>on is offer'd. For Mercy is another Glory of the Divi<g ref="char:EOLhyphen"/>nity, wherein thoſe who are Gods on Earth, ſhould ſhine in the Eyes of men. For the moſt High GOD, tho' infinitely Juſt, is yet very Merciful and Gracious. <hi>Thy Mercy</hi> (ſaith the Pſalmiſt) <hi>is Great unto the Hea<g ref="char:EOLhyphen"/>vens;</hi>
+               <note place="margin">Pſal. 57.10. &amp; 119.64.</note> and <hi>the Earth is full of Thy Mercy.</hi> Mercy is the moſt amiable Excellency of that GOD who is terrible in Majeſty, and reſiſtleſs in His Power. Mercy, 'tis the Beauty of His Face, the Sweetneſs of His Name, the Glory of His Crown, the Joy (if I may ſo ſpeak) and Delight of His Heart.
+<note place="margin">Mic. 7.18.</note> 
+               <hi>Who is a GOD like unto Thee</hi> (ſaith the Prophet) <hi>who pardoneth Iniquity, and paſſeth by the Tranſgreſſion of the Remnant of His Heritage? He re<g ref="char:EOLhyphen"/>taineth not His Anger for ever; becauſe He delighteth in Mercy.</hi> There is not then a more lovely Image of God to be found upon Earth, than a Merciful man. Juſtice without Mercy, will in ſome Caſes, be <hi>Cruelty;</hi> and Government without this excellent Virtue, will dege<g ref="char:EOLhyphen"/>nerate into <hi>Tyranny.</hi> In a well govern'd Kingdom, <hi>Judgment ſhould run down as Water,
+<note place="margin">Am. 5.24.</note> and Righteouſneſs as a mighty Stream.</hi> But without Mercy, <hi>Judgment will be turn'd to Wormwood,</hi>
+               <note place="margin">Am. 5.7.</note> and thoſe mighty Waters, as the Rivers of <hi>Egypt,</hi> will be turn'd into <hi>Bloud.</hi> Juſtice and Mercy muſt walk hand in hand, in the Paths of Equity and Judgment. The Good Judge muſt con<g ref="char:EOLhyphen"/>demn the Guilty, and ſo do Juſtice: but defend the
+<pb n="11" facs="tcp:62732:9"/>Innocent, out of Love to Mercy. Such is the Charge which GOD by the Pſalmiſt gives unto Judges and Ma<g ref="char:EOLhyphen"/>giſtrates; <hi>Defend the Poor and Fatherleſs:
+<note place="margin">Pſal. 82.3, 4.</note> do Juſtice to the afflicted and needy; rid them out of the hand of the Wicked.</hi> Thus Juſtice on the Guilty, is Mercy to the Innocent.</p>
+            <p>Moreover a <hi>Love to Mercy</hi> ſhould be manifeſted by alleviating the <hi>Rigours of Juſtice,</hi> according to the Qua<g ref="char:EOLhyphen"/>lity of the Offence, and condition of the Offendour, ſo far as it may be done within the Latitude of the Law. Thus <hi>Zaleucus,</hi> the Law-giver of the <hi>Locrians,</hi>
+               <note place="margin">
+                  <hi>AElian. var. Hiſt. l.</hi> 14. <hi>c.</hi> 24.</note> when his Son being taken in Adultery, was by the Law to ſuffer the Loſs of both his Eyes, did by a rare Act of Mercy alleviate the Rigour of Juſtice, in ſuffering one of his own Eyes to be put out, and ſparing one of his Sons, that he might not utterly deprive him of his Sight.</p>
+            <p>The Sword of Juſtice is to be bathed in the Oyle of Mercy, that it may at once wound and heal. For the very Deſign of Juſtice, even in the ſevereſt Puniſh<g ref="char:EOLhyphen"/>ments, is not the Deſtruction, but the Good and Wel<g ref="char:EOLhyphen"/>fare of Mankind; according to the known Maxim, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>all Puniſhment is deſign'd for Good.</hi> It's then the Property of a good Judge not to be tranſported by his Paſſion to Acts of Severity in the Adminiſtration of Judgment, but (after the Example of GOD Himſelf) <hi>in Wrath to remember Mercy.</hi>
+               <note place="margin">Hab. 3.2.</note> Mer<g ref="char:EOLhyphen"/>cy in the Adminiſtration of Juſtice, fixes the Empire of a Prince in the Hearts of his Subjects, which is the firmeſt Eſtabliſhment, and ſo the beſt Security for the Kingdoms Peace. For by Juſtice <hi>the Oppreſſours are conſumed out of the Land:
+<note place="margin">Iſa. 16.5.</note> and in Mercy</hi> (ſaith the Prince<g ref="char:EOLhyphen"/>ly Prophet) <hi>ſhall the Throne be eſtabliſhed.</hi> Thus Mer<g ref="char:EOLhyphen"/>cy, the Beauty of the Divine Government, is the ſtrength and Glory of a Kingdom.</p>
+            <pb n="12" facs="tcp:62732:10"/>
+            <p>But tho' the Heart of a Ruler or Judge be tender, and apt to melt into Mercy,
+<note place="margin">Pſal. 93.1.</note> yet muſt he be <hi>ſtrong and re<g ref="char:EOLhyphen"/>ſôlute</hi> in the Adminiſtration of Juſtice. <hi>The LORD reigneth</hi> (ſaith the Pſalmiſt) <hi>He is clothed with Majeſty; the LORD is clothed with ſtrength, wherewith He hath girded Himſelf.</hi> He's a Strong GOD who go<g ref="char:EOLhyphen"/>verns and judges the World; and that man muſt be Strong and of good Courage, who ſtands in GOD's ſtead for the Adminiſtration of Government and Ju<g ref="char:EOLhyphen"/>ſtice. When a juſt Cauſe meets with a ſtrong Oppoſi<g ref="char:EOLhyphen"/>tion, there ſhould the Judge interpoſe his Power for the Defence of Right, and by his Authority become a Bulwark to the Innocent. A Judge ſhould never want Courage to rebuke the proudeſt Patron of Wrong, the boldeſt Enemy to Juſtice.</p>
+            <p>
+               <hi>Fortitude</hi> is a Virtue neceſſary in a Judge or Magi<g ref="char:EOLhyphen"/>ſtrate: and Juſtice then ſhines with the brighteſt Lu<g ref="char:EOLhyphen"/>ſtre, when it is in Conjunction with Fortitude. There are two great Evils which oft obſtruct Juſtice, <hi>Force</hi> and <hi>Fraud.</hi> Fraud is a ſecret, Force an open Enemy: Now as great <hi>Wiſdom</hi> is neceſſary in a Judge to detect Fraud; ſo great <hi>Fortitude</hi> is no leſs neceſſary to repell Force.
+<note place="margin">1 Kin. 10.18, 19, 20.</note> 
+               <hi>Solomons</hi> Throne of Judgment was guarded with Lyons. Juſtice muſt not only be guided by Wiſ<g ref="char:EOLhyphen"/>dom, but alſo guarded by Strength, maintain'd by Cou<g ref="char:EOLhyphen"/>rage.</p>
+            <p>He that ſuſtains the Perſon of GOD, muſt not fear the Faces of men. He muſt not be baffled by a bold Offendour, ſo as to ſuffer a potent Tranſgreſſour of the Law, to carry out his Crimes with Impunity; nor muſt he be over born by the complicated Force of a multitude of Offendours. He muſt act as becomes one who has Almighty GOD for his Patron, who accounts impartial Juſtice his impenetrable Shield, who deſigns
+<pb n="13" facs="tcp:62732:10"/>the Publick Good as his main End, and eſteems the faithful Diſcharge of his Duty, to be his chiefeſt Glo<g ref="char:EOLhyphen"/>ry. And therefore in the Direction given to <hi>Moſes</hi> for the Choice and Conſtitution of Magiſtrates and Judg<g ref="char:EOLhyphen"/>es over the people, it is ſaid,
+<note place="margin">Exod. 18.21.</note> 
+               <hi>Thou ſhalt provide out of all the people, Able men,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>men of Virtue and Va<g ref="char:EOLhyphen"/>lour, of Courage and Strength,</hi> as the prime Requiſite for the adapting of Perſons for this great Office. And therefore ſaid <hi>Jehoſhaphat</hi> to the Judges, whom he ap<g ref="char:EOLhyphen"/>pointed to judge the people,
+<note place="margin">2 Chron. 19.11.</note> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Be Strong and Do your Work,</hi> or, as we render it, <hi>Deal couragiouſly, and the LORD ſhall be with the Good.</hi>
+            </p>
+            <p>And why are Judges and Magiſtrates here, (in the Text) call'd <hi>the Mighty,</hi> yea, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ELOHIM, <hi>the Mighty GOD,</hi> but to ſignify they ought to be men of Might and Courage, for the Adminiſtration of Juſtice and Judgment: for the reſtraining of daring Crimes, and the Puniſhment of proud and potent Offen<g ref="char:EOLhyphen"/>dours?</p>
+            <p>A good Judge or Magiſtrate who is faithfull in the Diſcharge of his Duty, need not doubt the Divine Pre<g ref="char:EOLhyphen"/>ſence and Protection. If a Matter of ſpecial Difficulty, which is attended with Danger, do occur, he may do well to call to mind the Words of <hi>David</hi> to his Son <hi>So<g ref="char:EOLhyphen"/>lomon; Be ſtrong, and of good Courage, and do it;
+<note place="margin">1 Chron. 28.20.</note> Fear not, nor be diſmai'd: for the LORD GOD, even my GOD will be with thee; He will not fail thee, nor forſake thee.</hi> Juſtice and Judgment is <hi>GOD's Work:</hi> and therefore he that ſtands in GOD's ſtead, ſhould not, for Fear of man, decline the doing of it.</p>
+            <p>The <hi>Thebans</hi> were wont to make the Statues of their Judges <hi>without Hands;</hi>
+               <note place="margin">Plut. de Iſid. &amp; Oſir.</note> to note they ſhould take no Bribes: but he cannot poſſibly be a good Judge, who (as it is ſaid of the <hi>Sword-Fiſh</hi>) is <hi>without Heart;</hi> who wants Courage and Reſolution to Execute Juſtice and
+<pb n="14" facs="tcp:62732:11"/>Judgment. A Judge muſt have an <hi>Eagles Eye,</hi> and a <hi>Lyons Heart:</hi> He muſt have a Quickneſs of Sight to detect mens Crimes, and a Courage ſufficient to con<g ref="char:EOLhyphen"/>demn the Guilty:</p>
+            <p>We read in our Chronicle,
+<note place="margin">Sir <hi>Rich. Ba<g ref="char:EOLhyphen"/>ker.</hi>
+               </note> that <hi>Henry</hi> the Fifth being Prince, coming to reſcue one of his Servants that was indicted, was reſiſted by the Lord Chief Juſtice, whom he ſtruck in the Face; for which the Lord Chief Juſtice committed him to the <hi>Fleet.</hi> The Prince ſuffer'd him<g ref="char:EOLhyphen"/>ſelf to be led to Priſon. The King his Father hearing of it, was exceedingly pleaſed, that he had <hi>a Judge of ſuch Courage, and a Son of ſuch Submiſſion.</hi>
+            </p>
+            <p>Juſtice is indeed a <hi>Heroicall Virtue</hi> in a Judge, which elevates him above all Fears of Danger and Degradati<g ref="char:EOLhyphen"/>on, all Regard to Riches and Honours, all Reſpects to Relations and Allies; it raiſes him to a true Greatneſs of Mind, and Sublimity of Spirit, and ſets him above all Terrours and Temptations; it aſſimilates him in his Judiciall Proceedings to the impaſſible Divinity. And ſuch a Judge ſhines in Honour as a <hi>God</hi> among men; and in the Renown of his Juſtice, will be <hi>immor<g ref="char:EOLhyphen"/>tall.</hi>
+            </p>
+            <p>Thus <hi>Fortitude and Magnanimity</hi> muſt enoble the Minds of thoſe who ſit upon the Tribunall, and elevate their Spirits to ſuch an <hi>Heroicall Height</hi> as is proportio<g ref="char:EOLhyphen"/>nable to the Greatneſs of the Power wherewith they are intruſted, for the Adminiſtration of Juſtice and Judgment.</p>
+            <p>To complete their Character and Conformity to GOD,
+<note place="margin">Exo. 18.21.</note> Judges and Magiſtrates muſt be <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>men of Truth. Truth</hi> is an eſſential Excellency of GOD, the Rector and Judge of the World.
+<note place="margin">Deut. 32.4.</note> For <hi>a GOD of Truth, and without Iniquity, Juſt and Right is He.</hi> The Truth of Things is their <hi>Reality,</hi> or reall Exiſtence
+<pb n="15" facs="tcp:62732:11"/>as they are repreſented to be: the Truth of Perſons is their <hi>Integrity,</hi> or faithful Management of their Affairs, in Anſwer to and Diſcharge of their Obligations. A Judge or Magiſtrate muſt be <hi>Faithfull</hi> in the Diſcharge of his Truſt, and make Truth, as far as it can be diſ<g ref="char:EOLhyphen"/>cern'd, the very <hi>Baſis</hi> of all his Proceedings.</p>
+            <p>Among the <hi>Egyptians</hi> the chief Judge wore about his Neck a certain Jewel,
+<note place="margin">
+                  <hi>Aelian. var. Hiſt. l.</hi> 14. <hi>c.</hi> 34.</note> wherein the <hi>Image of Truth</hi> was ingraven in a precious Stone. This was deſign'd certainly not ſo much for an <hi>Ornament,</hi> as a <hi>Memoriall;</hi> that he might proceed in Judgment according to Truth. And ſurely <hi>RIGHTEO<g ref="char:V">Ʋ</g>SNESS and TR<g ref="char:V">Ʋ</g>TH</hi> (as the <hi>
+                  <g ref="char:V">Ʋ</g>RIM and TH<g ref="char:V">Ʋ</g>MMIM</hi> in the Breaſt plate of <hi>Aaron</hi>) ſhould be engraven on the Soul of the Judge.
+<note place="margin">Exo. 28.30.</note> For he that has not Truth and Juſtice <hi>ſeated in his very Soul</hi> (as the Father ſpeaks
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Baſil.</note>) can<g ref="char:EOLhyphen"/>not rightly execute Judgment.</p>
+            <p>Truth is the <hi>Soul of Juſtice,</hi> without which Courts of Judicature are but <hi>Shops of Cruelty. If a Ruler hear<g ref="char:EOLhyphen"/>ken to Lyes</hi> (ſaith <hi>Solomon</hi>) <hi>all his Servants are wicked.</hi> Then the Righteous will be defam'd, the Guilty ab<g ref="char:EOLhyphen"/>ſolv'd, the Innocent condemn'd; Juſtice and Judg<g ref="char:EOLhyphen"/>ment will be perverted to the high Diſhonour of GOD, and horrid Oppreſſion of men: but when the Ruler and Judge (with <hi>David</hi>) <hi>hates and abhors Lying,</hi>
+               <note place="margin">Prov. 29.12. Pſal. 119.163.</note> loves the Truth, preſerves it inviolable in himſelf, and prizes it in other men, he will earneſtly endeavour to find out Truth in all Matters before him, that all his Proceedings may be in Righteouſneſs and Truth. Hap<g ref="char:EOLhyphen"/>py is the State of that Land,
+<note place="margin">Pſal. 85.8.</note> wherein <hi>Mercy and Truth are met together, Righteouſneſs and Peace have kiſſed each other.</hi> When Truth ſhines with a clear Ray, Juſtice will appear in a conſpicuous Glory.</p>
+            <pb n="14" facs="tcp:62732:12"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:62732:12"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:62732:13"/>
+            <p>Thus we have ſeen what the <hi>Virtues</hi> are wherein Judges and Magiſtrates are oblig'd to excell, upon Ac<g ref="char:EOLhyphen"/>count of that <hi>Honour</hi> which the moſt High GOD hath conferr'd upon them, in giving ſuch Glorious Titles to them. They are ſtil'd <hi>the Mighty, the Gods;</hi> and therefore that they may expreſs a Similitude to the Eternal Divinitie, they ought to excel in <hi>Wiſdom, Juſtice, Mercy, Fortitude and Truth.</hi> Then as their Names are a <hi>Titular Honour,</hi> theſe Virtues will be their <hi>Reall Glo<g ref="char:EOLhyphen"/>ry.</hi> Theſe Virtues will not only gild their Names, but put ſuch a Luſtre upon their Perſons, as will make them appear as Gods among men. Where-ever they live, they will be had in Honour; eſpecially when theſe <hi>judiciary Virtues</hi> are conjoin'd with a conſtant <hi>Practice of true Pietie,</hi> attended with the Actions of a <hi>good Life,</hi> and animated with a <hi>great Zeal</hi> for the Glo<g ref="char:EOLhyphen"/>ry of GOD. And truly he that is GOD's Subſtitute, authoriz'd to act his Part among men, ſhould be zea<g ref="char:EOLhyphen"/>lous for His Glory: and he that by the Hand of GOD is exalted to Eminency of Place and Power above others, ſhould excell in Piety, and be exemplary to others in the Virtues and Actions of a good Life. He ſhould live above this World, in Contempt of ſordid Gain and ſecular Glory, and uncontaminated with thoſe ſenſu<g ref="char:EOLhyphen"/>all Pleaſures, and vicious Impurities, which wofully debaſe the Minds of men. A corrupt Judge, that op<g ref="char:EOLhyphen"/>preſſes the Poor,
+<note place="margin">Pſal 10.18.</note> is ſtil'd <hi>a man of the Earth,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a ſorry man, who is but a Son of the Earth.</hi> But as for <hi>the Mighty,</hi>
+               <note place="margin">Pſal. 82.1, 6.</note> who are called <hi>Gods, and all of them Sons of the moſt High,</hi>
+               <note place="margin">Col. 3.2, 20.</note> how does it become them to <hi>mind the Things that are above,</hi> and to have their <hi>Converſation in Heaven,</hi> from whence their Power and Glory deſcends! For where ſhould a God live but in Heaven? And if, for the Good of men, he abide on Earth, he ſhould by a Great Virtue, turn Earth into Heaven, and the
+<pb n="17" facs="tcp:62732:13"/>Place wherein he moves and acts, in to a Sphaere of Glory.</p>
+            <p>Such ought Magiſtrates and Judges, who are the <hi>living Images of GOD,</hi> to be in this World. And then the more they excell in Virtue and Piety here, the brighter ſhall they ſhine in Glory hereafter.</p>
+            <p>For they muſt at length leave this World, and be di<g ref="char:EOLhyphen"/>veſted of their ſecular Power and Greatneſs.
+<note place="margin">Pſal. 82.6, 7.</note> Tho' <hi>Ti<g ref="char:EOLhyphen"/>tular Gods,</hi> they are indeed but <hi>Mortall men. I have ſaid ye are Gods, and all of you Children of the moſt High: but ye ſhall dye like men, and fall like one of the Princes.</hi> You, who ſit as Gods upon the Tribunall in this World, and judge others, ſhall at length (how ſoon ye know not) ſtand before the Tribunall of the moſt High GOD, to be judg'd your ſelves, according to your Works. Then ſhall all the Actions of <hi>Humane Courts</hi> be ſcann'd again, and all the Errours and Obliquities of Judiciall Proceedings openly detected. Then the <hi>Wrongs</hi> of all the oppreſſed, of all that have been injur'd by an unjuſt Sentence, the <hi>Tears of Orphans,</hi> and the <hi>Bloud of Innocents,</hi> ſhall with loud Clamours, cry for Juſtice, and ſollicit the Divine Vengeance againſt the Guilty. Then ſhall a ſevere Sentence, a dreadfull Doom be paſs'd upon all corrupt Magiſtrates and un<g ref="char:EOLhyphen"/>juſt Judges. The Sentence ſhall be irrevocable, the Judgment inevitable, the Puniſhment intolerable and everlaſting. But good Magiſtrates and juſt Judges ſhall, at that Day, appear with great Joy; and as they have bene exalted above others in the Honour of their Places here, ſo ſhall they out-ſhine them in the Luſtre of their Perſons, and have thoſe Eminent Services they have done for GOD, for their King for their Coun<g ref="char:EOLhyphen"/>try, rewarded with a ſuper-excellent Glory in Hea<g ref="char:EOLhyphen"/>ven.
+<pb n="18" facs="tcp:62732:14"/>
+               <note place="margin">Pſal. 97.7.</note> Angels are ſliled <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ELOHIM, <hi>Gods</hi> (as it is ſaid, <hi>Worſhip Him all ye Gods</hi>) and Judges who are called <hi>Gods</hi> on Earth, having ſaithfully diſcharg'd their Duty, ſhall ſhare in the Glory of Angels, and ſhine as Gods in Heaven for ever and ever.</p>
+            <p>Such is the Honour, ſuch ſhall be the Glory of good Magiſtrates, of juſt Judges. But now Magiſtrates and Judges are either <hi>Supreme or ſubordinate.</hi> The Su<g ref="char:EOLhyphen"/>preme Magiſtrate and Judge in a Kingdom is the <hi>KING</hi> Himſelf,
+<note place="margin">1 Pet. 2.13, 14.</note> as it is ſaid; <hi>Submit your ſelves to eve<g ref="char:EOLhyphen"/>ry Ordinance of man for the LORD's ſake, whether it be to the King, as Supreme; or unto Governours, as unto them that are ſent by him, for the Puniſhment of evil-Do<g ref="char:EOLhyphen"/>ers, and the Praiſe of them that do well;</hi> that is, ſubordi<g ref="char:EOLhyphen"/>nate Judges and Magiſtrates. Judges and Magiſtrates then are but as <hi>Delegates of the King,</hi> who as his Repre<g ref="char:EOLhyphen"/>ſentatives, ſuſtain his Perſon in Acts of Government and Adminiſtration of Juſtice to the People. The Ho<g ref="char:EOLhyphen"/>nour of theſe th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in being ſtiled <hi>the Mighty, the Gods,</hi> is but a reflected Ray of that Glory, which with a far brighter Luſtre ſhines in Him. The King does prima<g ref="char:EOLhyphen"/>rily and immediately repreſent the Perſon of GOD; and Judges and Magiſtrates ſecondarily and medi<g ref="char:EOLhyphen"/>ately, as they repreſent the Perſon of the King. The Glory then of theſe Great Names, <hi>the Mighty, the Gods,</hi> does primarily pertain to Sovereign Princes; as may plainly appear by the Words of the Scripture, where they are ſo ſtiled;
+<note place="margin">Pſal. 82.6, 7.</note> 
+               <hi>I have ſaid, Ye are Gods, and all of you Children of the moſt High: but ye ſhall dye like men, and fall like one of the Princes;</hi> like <hi>David, Solomon, Heze<g ref="char:EOLhyphen"/>kiah,</hi> that ſometimes ſhone in this Glory, and now are fallen into the Duſt. Yea, and in our <hi>Publick Service,</hi> we thus read the Words of the Text; <hi>GOD ſtandeth in the Congregation of Princes: He is Judge among Gods.</hi>
+               <pb n="19" facs="tcp:62732:14"/>So that the <hi>Gods</hi> here mention'd (according to this Reading of the Words) are <hi>Princes:</hi> and what Princes can ſo properly be ſtiled <hi>Gods</hi> as Kings, who have a So<g ref="char:EOLhyphen"/>vereign Power over the People?</p>
+            <p>The Glory and Majeſty of GOD then ſhines in its brighteſt Luſtre in the Face of the King. <hi>His Glory is great</hi> (ſaith the Pſalmiſt) <hi>in thy Salvation:
+<note place="margin">Pſal. 21.5.</note> Honour and Majeſty haſt thou laid upon him.</hi> 'Tis the King then who by reaſon of his Supereminency in Power and Authority is indeed <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> EL, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ELOHIM, <hi>a Mighty God,</hi> ruling and judging amongſt men. 'Tis the King who (as <hi>Joſeph</hi> to <hi>Pharaoh, Daniel</hi> to <hi>Darius</hi>) is a Ruler and a Judge next and immediately under the moſt High GOD, the Supreme LORD and Judge of the whole World. With what Reverence and Vene<g ref="char:EOLhyphen"/>ration then ought men to look upon his Perſon! With what Readineſs and Alacrity ought they to ſubmit to his Rule and Government! Hereby alſo we may plain<g ref="char:EOLhyphen"/>ly perceive how great the Sin of <hi>Diſobedience</hi> is, how heinous the Crime of <hi>Rebellion.</hi> 'Tis in Effect to con<g ref="char:EOLhyphen"/>temn GOD, <hi>to ſight againſt GOD,</hi>
+               <note place="margin">Acts 5.39.</note> who viſibly governs the World by Sovereign Princes, as his Subſtitutes and Vicegerents. And upon the ſame Account, how great is the Sin of <hi>ſpeaking Evil</hi> of the King! How mon<g ref="char:EOLhyphen"/>ſtrous the Crime of making a <hi>murderous Attempt</hi> againſt his Sacred Perſon! 'Tis ſaid in the Law,
+<note place="margin">Exo. 22.28.</note> 
+               <hi>Thou ſhalt not revile the Gods,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ELOHIM, <hi>the Judges</hi> (much leſs <hi>the King;</hi>) <hi>nor curſe</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> NASI, <hi>the Prince, or Ru<g ref="char:EOLhyphen"/>ler of the People.</hi> The ſpeaking Evil of an ordinary Perſon, is a <hi>Reproach;</hi> of a King, 'tis as the ſpeaking Evil of GOD, a <hi>Blaſphemy.</hi> The Charge drawn up againſt <hi>Naboth</hi> was this;
+<note place="margin">1 Kin. 21.13.</note> 
+               <hi>Naboth did blaſpheme GOD and the King.</hi> With this Crime the bold and daring <hi>Sectaries</hi> of the Primitive Times, the proud and im<g ref="char:EOLhyphen"/>pure <hi>Gnoſticks,</hi> are charg'd by the Apoſtles themſelves,
+<pb n="20" facs="tcp:62732:15"/>by whom they are thus characteriz'd;
+<note place="margin">2 Pet. 2.10. Jude, <hi>v.</hi> 8.</note> 
+               <hi>They deſpiſe Go<g ref="char:EOLhyphen"/>vernment and Dominion, preſumptuous are they and ſelf<g ref="char:EOLhyphen"/>will'd; they are not afraid to ſpeak evil of Dignities, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, they tremble not when they blaſ<g ref="char:EOLhyphen"/>pheme the Glories;</hi> Sovereign Princes, in whom the Ma<g ref="char:EOLhyphen"/>jeſty and Glory of GOD ſhines, and who therefore, as <hi>Gods</hi> among men, are <hi>the Glories</hi> of Mankind. When GOD has put ſo much Majeſty and Glory on them, given ſo much Authority and Power to them, on purpoſe to caſt an Awe upon thoſe who are to be ſubject to them, it muſt needs be ſtrange that men ſhould arrive to ſuch an Height of Inſolence, as not to <hi>tremble</hi> when they <hi>blaſpheme</hi> them. But deſperate is the Boldneſs of Wicked men; eſpecially when a Multitude of them is combined in a <hi>Traiterous Conſpiracy</hi> againſt the Life and Honour of their lawfull Sovereign. Of ſuch, <hi>David,</hi>
+               <note place="margin">Pſal. 31.15. <hi>Old Tranſtati<g ref="char:EOLhyphen"/>on.</hi>
+               </note> one of the beſt of Kings, complains; <hi>I have heard the Blaſphemy of the Multitude: and Fear is on eve<g ref="char:EOLhyphen"/>ry ſide while they conſpire together againſt me, and take their Counſel to take away my Life.</hi> Audacious Villany! De<g ref="char:EOLhyphen"/>ſperate Impiety! How horrible a Wickedneſs is a bloudy Attempt againſt the Life of the King! Surely as the Speaking Evil of a King <hi>is Blaſphemy,</hi> ſo the Kil<g ref="char:EOLhyphen"/>ling of a King is the <hi>Murder of GOD in Effigie,</hi> and the Slaughter of a whole Kingdom at a Stroke.
+<note place="margin">Lam. 4.20.</note> For <hi>the Anointed of the LORD is the Breath of our Noſtrills.</hi> Our Lives are in a ſort bound up in the Life of our So<g ref="char:EOLhyphen"/>vereign Lord the King; ſeeing under his Government and Protection we draw our <hi>vitall Breath.</hi> How equall and reaſonable is it, that we ſhould not only earneſtly pray to Almighty GOD for the Preſervation of the Perſon of the King from <hi>Deceit and Violence;</hi>
+               <note place="margin">Pſal. 72.14.</note> but alſo, with the Hazard of our Lives and Eſtates, endeavour to do what lies in us, for his Defence and Security: ſeeing we owe our own Peace and Safety, our Lives
+<pb n="21" facs="tcp:62732:15"/>and Liberties, with the quiet and comfortable Fruition of all our Priviledges and Poſſeſſions, to his <hi>Sword and Scepter.</hi> And be we well aſſured, the hearty Loyalty and Obedience of the Subjects, is the beſt Security for the Life of the King, and the greateſt Glory of his Kingdom.</p>
+            <p>Having pay'd this ſmall <hi>Tribute,</hi> which the Words of the Text demand, to <hi>the King as Supreme,</hi> return we to the ſubordinate Rulers and Judges. And ha<g ref="char:EOLhyphen"/>ving conſidered them in their <hi>Perſonall Capacity,</hi> both as to the Dignity which is put upon them, and the Du<g ref="char:EOLhyphen"/>ty which is required of them; Come we now to con<g ref="char:EOLhyphen"/>ſider them in their <hi>Publick Appearance,</hi> as aſſembled in a <hi>Court of Judcature,</hi> for the Adminiſtration of Juſtice and Judgment. This is here call'd <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ADATH<g ref="char:EOLhyphen"/>EL, <hi>GOD's Court or Council;</hi> as a Court of Judicature may be fitly call'd; becauſe conſtituted by his Autho<g ref="char:EOLhyphen"/>rity, and held by his Appointment, as the <hi>Author</hi> and Originall of all <hi>Order, Power, and Government;</hi>
+               <note place="margin">1 Cor. 14.33. Rom. 13.1.</note> and be<g ref="char:EOLhyphen"/>cauſe He is therein preſent, as Supreme Lord and Judge: For <hi>GOD ſtandeth in the Congregation of the Mighty</hi> (as we read it) or, <hi>in the Court of GOD;</hi> that is (according to the Idiom and Propriety of the <hi>He<g ref="char:EOLhyphen"/>brew-Tongue</hi>) <hi>in His own Court: He judges among the Gods.</hi> But <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ADATH-EL, is here rendred by the <hi>LXX.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Synagogue, the Aſſembly of the Gods;</hi> which is of the ſame Import with our Verſion, <hi>the Congregation of the Mighty.</hi> Now theſe Mighty ones, are the Judge or Judges, with other Magiſtrates and Officers authoriz'd for the Adminiſtration and Execution of Juſtice and Judgment, for the Conſerva<g ref="char:EOLhyphen"/>tion of the Publick Peace.</p>
+            <p>Now this <hi>Convention and Aſſociation</hi> of the Mighty, of Judges and Magiſtrates, for the Conſtitution of a <hi>Court of Juſtice,</hi> is grounded upon great Reaſon. For
+<pb n="22" facs="tcp:62732:16"/>hereby the Adminiſtration of Juſtice is not only render'd more unexceptionable, but alſo more powerful and effectually conducible to its pro<g ref="char:EOLhyphen"/>per End, which is the <hi>Publick Peace,</hi> the Peoples Good. This will plainly appear, if we conſi<g ref="char:EOLhyphen"/>der, that the great End of the Adminiſtration of Ju<g ref="char:EOLhyphen"/>ſtice, is the keeping of people within the Limits of thoſe Laws, which are the Rules of Government: And Government is deſign'd for the <hi>Publick Good;</hi> and Laws are made for the ſecuring of the <hi>Perſons and Proprieties</hi> of the People; and eſpecially of the King or Supreme Governour, who is the <hi>Life of the Law,</hi> and <hi>Soul of Government,</hi> from whom that quickening Influence is derived, which animates the Law, other<g ref="char:EOLhyphen"/>wiſe a <hi>dead Letter,</hi> into a <hi>living Power.</hi> And ſo conſe<g ref="char:EOLhyphen"/>quently the Safety and Happineſs of all the People, muſt neceſſarily depend upon the Safety and Proſpe<g ref="char:EOLhyphen"/>rity of the King. Now Laws are deſign'd to be as a <hi>Fence and Shield</hi> to men: a <hi>Shield</hi> to ſecure their <hi>Perſons</hi> from Wrong by Deceit or Violence; a <hi>Fence,</hi> to ſecure their <hi>Proprieties</hi> from any injurious Encroachment or Invaſion by others. For the rendring them more effe<g ref="char:EOLhyphen"/>ctuall for this End, <hi>Penalties</hi> are annext unto them, in the Infliction whereof upon Tranſgreſſours ſtands the <hi>Execution of the Laws.</hi> This Execution of Laws is properly an Act of Juſtice, without which Laws be<g ref="char:EOLhyphen"/>come inſignificant, as being ineffectuall for the Re<g ref="char:EOLhyphen"/>ſtraint of men from thoſe Inſolencies and Exorbitancies, whereby they become injurious to others, and Diſtur<g ref="char:EOLhyphen"/>bers of the Publick Peace. Now <hi>Courts of Judicature</hi> are deſign'd for the <hi>Execution of Laws,</hi> in the due Adminiſtration of Juſtice and Judgment. And the <hi>Convention of many Perſons,</hi> authoriz'd by the <hi>Sove<g ref="char:EOLhyphen"/>reign Power</hi> for this End, cannot but rationally appear to be the moſt powerfull and effectual Means, to re<g ref="char:EOLhyphen"/>ſtrain
+<pb n="23" facs="tcp:62732:16"/>men from Vice and Sin, to keep them within the Limits of the Law, and ſo to promote the great End of Government, the <hi>Publick Good,</hi> the Kingdoms Peace.</p>
+            <p>For in ſuch an Aſſembly of Judges and Magiſtrates, ſuch a <hi>Congregation of the Mighty,</hi> ſuch a Convention of the Gods, all completely arm'd with Authority and Power for the Execution of Juſtice and Judgment, there muſt needs appear ſo much <hi>Majeſty,</hi> as will caſt an Awe upon the Spirits of men, ſtrike the Guilty with ſuch a Terrour, as may well make them tremble at the Bar, and create ſuch a Fear of offending in the Hearts of the innocent, as may in all Reaſon reſtrain them from the Commiſſion of thoſe Crimes, for which they ſee others condemn'd by the Sentence of the Judge, and then puniſht by the Hands of the Executioner. For <hi>the Magiſtrate bears not the Sword in vain:
+<note place="margin">Rom. 13.4.</note> for he is the Miniſter of GOD, a Revenger to execute Wrath upon him that doth evil.</hi>
+            </p>
+            <p>Now when the <hi>Laws</hi> are backt by <hi>Arms:</hi> and many Perſons are aſſembled together bearing the <hi>Enſigns of Authority,</hi> and are attended by others bearing the <hi>In<g ref="char:EOLhyphen"/>ſtruments of Juſtice,</hi> we may reaſonably conceive this will ſtrike ſuch a Terrour into the Minds of men, and caſt ſuch an Awe upon thoſe that are ill-inclin'd, as to reſtrain them from injurious Exorbitancies, and keep them within the Bounds of Law and Government. This <hi>accumulated Strength</hi> of Juſtice will as a <hi>mighty Torrent</hi> bear down all Oppoſition, and receive no Check by the Inſolence of a bold Offendour, nor be obſtruct<g ref="char:EOLhyphen"/>ed by a Multitude of Tranſgreſſours. Thus Juſtice in a <hi>Collective Body</hi> of Judges, will ſhine with brighter
+<pb n="24" facs="tcp:62732:17"/>Majeſty, and ſtrike with greater ſtrength, towards the beating down all the <hi>Monſters</hi> of rebellious Pride, and enormous Power, which ſhall dare to riſe up againſt Law and Government.</p>
+            <p>Many Eyes ſee clearer than one, and many Hands do with greater Force, repell that Wrong and Vio<g ref="char:EOLhyphen"/>lence by which Righteous Perſons are too oft oppreſt. And thus Guilt is more eaſily detected, Innocence more certainly relieved, and the Honour and Reverence due to Law and Government, more effectually ſecur'd for the Publick Good.</p>
+            <p>Thus in the wiſeſt Nations, the beſt govern'd King<g ref="char:EOLhyphen"/>doms and Common Wealths, ſuch Courts of Judi<g ref="char:EOLhyphen"/>cature have bene conſtituted, as have conſiſted of many Perſons, inveſted with Authority for the Adminiſtra<g ref="char:EOLhyphen"/>tion of Juſtice. The <hi>Jews,</hi> a People whoſe Govern<g ref="char:EOLhyphen"/>ment was founded in the Authority, and confirm'd by the Approbation of GOD Himſelf, had their <hi>Sanhe<g ref="char:EOLhyphen"/>drim
+<note n="*" place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Mat. 5.22. <hi>Vide Gratii Annot. in hunt lotum.</hi>
+                  </note>,</hi> their <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Council</hi> veſted with <hi>Judicia<g ref="char:EOLhyphen"/>ry Power,</hi> conſiſting of Seventy Perſons, who were the Elders of <hi>Iſrael.</hi> All the greater <hi>Caſes of Law</hi> were de<g ref="char:EOLhyphen"/>cided by them, and by their Sentence <hi>Capitall Puniſh<g ref="char:EOLhyphen"/>ments</hi> (till their Power was abridg'd by the <hi>Romans</hi>) were inflicted upon enormous Offendours. Amongſt theſe Seventy Judges, there were two ſate as the Chief;
+<note place="margin">
+                  <hi>Godw. Antiq. l.</hi> 5. <hi>c.</hi> 1.</note> one who was called <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> NASI, the Prince, or <hi>L. Chief Juſtice;</hi> and the other who was call'd <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> AB BETH DIN, the <hi>Father of the Court,</hi> or of the Houſe of Judgment. Now to their <hi>Sanhedrim</hi> anſwer our <hi>Aſſiſes</hi>
+               <note n="†" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>or, Confeſſus, Aſſeſſus, Aſſiſts.</hi>
+               </note>. They are both Words of the ſame Im<g ref="char:EOLhyphen"/>port and Signification: and there's as great a Corre<g ref="char:EOLhyphen"/>ſpondency in the Things ſignify'd. They both denote a
+<pb n="25" facs="tcp:62732:17"/>Court of Judicature conſiſting of many Judges, or Perſons inveſted with Judiciary Power! Such alſo was the <hi>Court of the Areopagites</hi> among the <hi>Athenians,</hi> and the <hi>Senate of the Romans.</hi>
+            </p>
+            <p>When there is but <hi>one Judge</hi> who ſits alone in Judg<g ref="char:EOLhyphen"/>ment, the guilty Offendour may hope either by his Gold, or Greatneſs, or by the Favour of Friends to ſway him from a <hi>right Sentence:</hi> but when many ſit in Judgment, tho' he ſhould be favour'd by one, he may fall by the reſt; and there will be no Hope for him to prevail with all, and eſcape in Judgment. It is therefore very agreeable to right Reaſon, that a Court of Juſtice, which is to determine of weighty Matters, ſhould conſiſt of <hi>many Judges.</hi> For ſo will the Authority be more Auguſt, and the Judgment more tremendous.</p>
+            <p>But that which ſhould procure the greateſt Reve<g ref="char:EOLhyphen"/>rence and Veneration to a Court of Juſtice, is a firm Perſuaſion of the <hi>Divine Preſence.</hi> This comes, in the laſt Place, to be conſider'd, as it is here, by the Pſal<g ref="char:EOLhyphen"/>miſt, plainly expreſt; <hi>GOD ſtandeth in the Congrega<g ref="char:EOLhyphen"/>tion of the Mighty, He judgeth among the Gods.</hi>
+            </p>
+            <p>GOD then, even the moſt High GOD, is in a ſpeciall manner preſent in a Court of Judicature, where Judges and Magiſtrates are aſſembled for the Adminiſtration of Juſtice and Judgment; and He not only ſees and obſerves all Things that are there tranſacted, but by approving and ratifying every right Sentence pronounc't by the Judge, <hi>He judges among the Gods.</hi>
+            </p>
+            <p>Now as this puts a great <hi>Honour upon the Court,</hi> caſts a great <hi>Glory upon the Judges</hi> there aſſembled; ſo
+<pb n="26" facs="tcp:62732:18"/>it layes a <hi>mighty Obligation</hi> both upon them, and all other Perſons who have any Concern in the Court, or bear any Part in the Adminiſtration of Juſtice, to have a very great Care of their Demeanour, to take very great heed what they ſpeak, what they do, as remembring and conſidering that they are in the ſpeci<g ref="char:EOLhyphen"/>all Preſence of Almighty GOD.</p>
+            <p>When the Judges, with attendant Magiſtrates, are ſet upon the Bench, to hear Cauſes, and to do Ju<g ref="char:EOLhyphen"/>ſtice, if the King ſhould cauſe his Royall Throne to be ſet in the Court, and ſhould in his own Perſon come in his Royall Robes, with his Crown glittering on his Head, and the Majeſty of GOD ſhining in his Face, and ſit down amongſt them, would not this be a great Honour to the Judges? Would not his Pre<g ref="char:EOLhyphen"/>ſence and Appearing in Royall State, caſt a great Luſtre upon the Court? Now it is the <hi>Glory of the King,</hi> that he is the <hi>Image of GOD,</hi> and his Vice<g ref="char:EOLhyphen"/>gerent among men. If then the Great GOD Him<g ref="char:EOLhyphen"/>ſelf,
+<note place="margin">Prov 8.15.</note> 
+               <hi>by whom Kings reign, and Princes decree Juſtice,</hi> ſhall be pleaſed to vouchſafe His Preſence in a <hi>Court of Judicature,</hi> in a Convention of Judges and Magi<g ref="char:EOLhyphen"/>ſtrates; if He ſhall <hi>ſtand amongſt the Mighty, judge amongſt the Gods,</hi> how great an Honour is this to the Judges! How great a Glory is this to the Court! Well may a man that enters into the Court ſay, with <hi>Jacob,</hi>
+               <note place="margin">Gen. 28.16, 17.</note> after his Viſion at <hi>Bethel, Surely the LORD is in this Place, and I knew it not. How dreadful is this Place! This is none other but the Court of GOD,</hi> His <hi>Houſe of Judgment,</hi> wherein He ſtands and judges amongſt men.</p>
+            <p>And then what a mighty Awe ſhould the <hi>Preſence of GOD</hi> eaſt both upon the Judges themſelves, and the whole Aſſembly! With what a Reverentiall Re<g ref="char:EOLhyphen"/>gard
+<pb n="27" facs="tcp:62732:18"/>to the Divine Majeſty ſhould all Matters be tranſacted! All things ſhould be done as under the Eye of a GOD infinite in Wiſdom, in Power, in Juſtice; a GOD and Judge who infinitely hates Iniquity,
+<note place="margin">Acts 17.31.</note> and who <hi>has appointed a Day wherein He will judge the World in Righteouſneſs,</hi> and call all men, both Great and Small,
+<note place="margin">Eccl. 12.14. Mat. 12.37.</note> to a ſtrict Account for all their <hi>Words and Actions.</hi>
+            </p>
+            <p>Amongſt the <hi>Arabians</hi> there was this ancient Cu<g ref="char:EOLhyphen"/>ſtome: In the <hi>Court of Juſtice</hi> adjoining to the <hi>Cham<g ref="char:EOLhyphen"/>bers of the King,</hi> there hung a <hi>Chain</hi> from the Caze<g ref="char:EOLhyphen"/>ment of a Window into the Court. If any man thought himſelf to be wrong'd by the Judges, he drew the Chain, and opened the Cazement. Hereupon the King took Cognizance of the Cauſe: and if the Judges were found faulty, they were preſently ſlain; if the Party complaining was found guilty, he was put to Death. In ſome Proportion and Correſpon<g ref="char:EOLhyphen"/>dency hereunto, ſhall I ſay, there is a <hi>Window open in Heaven</hi> over the Court of Juſtice, and there is no<g ref="char:EOLhyphen"/>thing there done by the Judges or others, but under the Eye of GOD, the Great King and Supreme Judge, who from his High Throne looks down up<g ref="char:EOLhyphen"/>on them? This Conſideration might be juſt Ground of great Care and Caution. But, behold! 'tis more which is here aſſerted by the Pſalmiſt. The Great GOD does not only look down from Heaven, <hi>his Holy Habitation,</hi> upon the Judges of the Court, and obſerve their Proceedings; but He is really pre<g ref="char:EOLhyphen"/>ſent with them, and ſtands amongſt them. For <hi>GOD ſtandeth in the Congregation of the Mighty: He judgeth among the Gods.</hi>
+            </p>
+            <pb n="28" facs="tcp:62732:19"/>
+            <p>In a lively Apprehenſion of the ſpeciall Preſence and Superintendency of the Great GOD, how well does it become, how much does it concern the Judg<g ref="char:EOLhyphen"/>es themſelves to manage their great Truſt and Pow<g ref="char:EOLhyphen"/>er with all Fidelity and Circumſpection! What can be more fitly and properly ſpoken to them, than what <hi>Jehoſhaphat</hi> ſpake to the Judges, whom he ſet in the <hi>Cities of Judah;</hi> or what can more concern them in this Caſe, than to attend to the <hi>Charge,</hi> which the <hi>King</hi> then gave them,
+<note place="margin">2 Chron. 19.5, 6, 7, 9.</note> ſaying, <hi>Take heed what ye do: for ye judge not for man, but for the LORD, who is with you in the Judgment? Wherefore now let the Fear of the LORD be upon you; Take heed, and do it,</hi> (<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Obſerve and Do, Act with all Circumſpection) for there is no Iniquity with the LORD our GOD, nor Reſpect of Perſons, nor taking of Gifts. Thus</hi> what<g ref="char:EOLhyphen"/>ever ye do, <hi>ſhall ye do in the Pear of the LORD, faith<g ref="char:EOLhyphen"/>fully, and with a perfect Heart.</hi> For (let me add from the Pſalmiſt) tho' as Gods ye judge men, there ſtands one amongſt you (whom ye ſee not) who will judge you, even the moſt High GOD
+<note n="*" place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Phocyl.</note>. For <hi>GOD ſtandeth in the Congregation of the Mighty; and he that is in the midſt of them,</hi> (as we may render it) <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>will judge the Judges;</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as the <hi>LXX</hi> render it) <hi>will judge the Gods.</hi> So act then in the Admini<g ref="char:EOLhyphen"/>ſtration of Juſtice, that when ye ſhall ſtand before the Judgment Seat of GOD, ye may ſtand approved, and receive that <hi>Crown of Righteouſneſs,
+<note place="margin">2 Tim. 4.8.</note> which GOD, the Righteous Judge, ſhall then give to all</hi> juſt and good men, even to all <hi>them who love His Appearing.</hi>
+            </p>
+            <p>In a Word, ſo act as ye believe GOD Himſelf would do, were He in your Place in the Nature of
+<pb n="29" facs="tcp:62732:19"/>man. So ſhall ye reallize that Great Name which GOD hath given you, and be indeed, as you are ſtiled, <hi>Gods,</hi> whom Juſtice, as an <hi>immortal Soul,</hi> animates to a Divine Life, and intitles to an eternal Crown.</p>
+            <p>And how well does it become all others who at<g ref="char:EOLhyphen"/>tend the <hi>Court of Juſtice,</hi> to bear upon their Souls a lively Apprehenſion of the <hi>Divine Preſence;</hi> and ſo to demean themſelves in all Concerns as in the <hi>Sight of GOD!</hi> All thoſe eſpecially who ſhall be bound by the <hi>Religion of an Oath,</hi> to declare and teſti<g ref="char:EOLhyphen"/>fy the Truth in Matters of Fact which ſhall be lay'd before them, are mightily concern'd to take great Heed to themſelves, that they do faithfully and ſin<g ref="char:EOLhyphen"/>cerely acquit themſelves, in the Anſwer and Diſ<g ref="char:EOLhyphen"/>charge of ſo <hi>ſacred and ſolemn an Obligation.</hi> Let them remember that the Eye of GOD, who diſcerns the <hi>Secrets of all Hearts,</hi> is upon them. Let them re<g ref="char:EOLhyphen"/>member that That GOD, by whoſe Name they ſwear, in whoſe Preſence they ſtand, and who hears the Words they ſpeak before the Judge;
+<note place="margin">Deut. 32.</note> is <hi>a GOD of TR<g ref="char:V">Ʋ</g>TH,</hi> who infinitely hates and abhors Ly<g ref="char:EOLhyphen"/>ing.
+<note place="margin">Prov. 12.</note> 
+               <hi>Lying Lips</hi> (ſaith the Wiſe man) <hi>are an Abo<g ref="char:EOLhyphen"/>mination to the LORD: but they that deal truly are His Delight.</hi> Yea,
+<note place="margin">Prov. 6.</note> 
+               <hi>a Lying Tongue</hi> is not leſs hateful to GOD, than <hi>Hands that ſhed innocent Bloud:</hi> both are <hi>an Abomination to the LORD.</hi> The <hi>Telling of a Lye</hi> is ſo great a Sin in the Account of GOD, that He hath puniſht it in ſome (as <hi>Ananias</hi> and <hi>Sapphira</hi>) with <hi>preſent Death;</hi> and hath plainly declar'd,
+<note place="margin">Acts 5. 5—</note> He will puniſh it hereafter with <hi>Hell fire:</hi>
+               <note place="margin">Rev. 21.8.</note> how much more horrid and abominable is a <hi>Perjury,</hi> even in the Di<g ref="char:EOLhyphen"/>vine Preſence! With what Indignation did King <hi>Nebuchadnezzar</hi> charge the <hi>Magicians</hi> with a Crime
+<pb n="30" facs="tcp:62732:20"/>of this kind;
+<note place="margin">Dan. 2.9.</note> ſaying, <hi>Ye have prepar'd lying and corrupt Words to ſpeak before Me!</hi> But how much greater a Crime is it for men to prepare lying and corrupt Words, to ſpeak before Almighty GOD Himſelf, e<g ref="char:EOLhyphen"/>ven then when they are bound by a ſolemn Oath to declare the Truth! May not this juſtly kindle His wrathful Indignation, to the utter Deſtruction of ſuch impious men?</p>
+            <p>How great is the <hi>Miſchief</hi> which by a lying Tongue may be done in a Court of Juſtice! The Courſe of Juſtice may be obſtructed, and the Stream of Judg<g ref="char:EOLhyphen"/>ment by this means turn'd into a wrong Chanel. By a <hi>falſe Witneſs</hi> a man may be overthrown in a <hi>juſt Cauſe,</hi> to his utter Ruine. By <hi>a Lye</hi> a man may be de<g ref="char:EOLhyphen"/>priv'd of his <hi>Life.</hi>
+               <note place="margin">Kin. 21.13.</note> The innocent <hi>Naboth,</hi> by the ly<g ref="char:EOLhyphen"/>ing Tongues of <hi>two falſe Witneſſes,</hi> was at once de<g ref="char:EOLhyphen"/>priv'd of his Life and Eſtate. A lying Tongue is a bloudy <hi>Sword:</hi> and the moſt unſpotted Innocence is not a <hi>Shield</hi> ſtrong enough to ſecure a man from its fatal Stroke. By means of a lying Tongue the moſt Innocent may be found Guilty, and the moſt Guilty may be pronounc'd Innocent.</p>
+            <p>But let thoſe who ſhall be concern'd to declare and teſtify the Truth, in thoſe Matters which ſhall fall un<g ref="char:EOLhyphen"/>der the Cognizance of the Court, remember and con<g ref="char:EOLhyphen"/>ſider, that tho' they may poſſibly by falſe Aſſertions, or ſundry Artifices and Diſguiſes, <hi>conceal the Truth</hi> from men, and their Falſhood may not be detected by the moſt diſcerning; yet 'tis utterly impoſſible they ſhould <hi>deceive that GOD</hi> before whom they ſtand: and tho' the Puniſhment of their Perjury be not in<g ref="char:EOLhyphen"/>flicted by men, they cannot poſſibly eſcape the Ven<g ref="char:EOLhyphen"/>geance
+<pb n="31" facs="tcp:62732:20"/>of Almighty GOD. He has eſtabliſht an unchangeable Law againſt this Sin, which He once, yea, twice, wrote with His own Finger (with the reſt of the <hi>Ten Commandments)</hi> upon Tables of Stone. The Law is this:
+<note place="margin">Exo. 20.7.</note> 
+               <hi>Thou ſhalt not take the Name of the LORD thy GOD in vain: for the LORD will not hold him guiltleſs that taketh His Name in vain.</hi> Now he that violates a Sacred and ſolemn Oath, adminiſtred to him in the Name of GOD, does in a high Degree take the Name of GOD in vain. How wofull is the State of this man! For whether by his falſe Report or Teſtimony, an Innocent man be pronounced Guilty, or a Guilty man Innocent, he becomes Guilty before GOD, the Great Judge of all, who by a Righteous Sentence will condemn him to the <hi>burning Flames.</hi> For He hath ſaid,
+<note place="margin">Rev. 21.8.</note> 
+               <hi>He will not hold him guiltleſs,</hi> he will not acquit him, he will certainly condemn him; and then moſt miſe<g ref="char:EOLhyphen"/>rable muſt his State be for ever and ever. Now what Folly is it for any man, for the Prevention of a juſt Sentence upon a Guilty man, by a plain Per<g ref="char:EOLhyphen"/>jury to draw ſuch a dreadful Guilt upon his own Soul! And the Folly is yet greater, and the Guilt more dreadful, if an Innocent man by his falſe Report or Teſtimony be condemn'd to Death as Guilty. For he is then at once Guilty of <hi>Perjury and Murder.</hi> He at once contemns GOD, and brings the Bloud of that man upon himſelf; and ſo juſtly deſerves no leſs than <hi>double Damnation.</hi>
+            </p>
+            <p>Oh then remember all ye that may be concern'd, that when ye come to take an Oath in a Court of Ju<g ref="char:EOLhyphen"/>ſtice, ye ſtand not only before the Judge, but before GOD Himſelf, who ſtands as King and Judge in that
+<pb n="32" facs="tcp:62732:21"/>Aſſembly, and will certainly avenge upon you the grievous Sin of Perjury, if ye ſhould any way be guilty of it. Remember, O man, O woman, whoſo<g ref="char:EOLhyphen"/>ever thou art, who ſhalt be call'd as <hi>a Witneſs</hi> of any Matter in the Court, Remember (I ſay) that Charge which Almighty GOD hath given thee in that Law, which He pronounc't with a Voice of Thunder, from the midſt of Flames of Fire, in Mount <hi>Sinai,</hi> ſaying.
+<note place="margin">Exo. 20.16.</note> 
+               <hi>Thou ſhalt not bear falſe Witneſs againſt thy Neighbour.</hi> The very words which GOD then ſpake are theſe, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Thou ſhalt not anſwer a lying Teſtimony concerning thy Neighbour;</hi> that is, Be<g ref="char:EOLhyphen"/>ing interrogated by the Judge <hi>upon thy Oath,</hi> thou ſhalt not, in <hi>thy Anſwer,</hi> give a falſe or <hi>lying Teſtimony,</hi> for or againſt thy Neighbour. This <hi>Oath,</hi> among the <hi>Jews,</hi> the Judge was wont to impoſe after this man<g ref="char:EOLhyphen"/>ner;
+<note place="margin">1 Kin. 22.16. 2 Chr. 18.15. Mat. 26.63. Lev. 5.1.</note> 
+               <hi>I adjure thee by the living GOD that thou tell us the Truth in this Matter.</hi> Hence it's ſaid in the Law, <hi>If a Soul ſin</hi> (that is, If a Crime be committed by any Perſon) <hi>and</hi> one <hi>hear the Voice of Swearing</hi> (that is, of the Judge adjuring him) <hi>and is a Witneſs whether he hath ſeen or known of it; if he do not utter it, then he ſhall bear his Iniquity</hi> (that is, He ſhall not on<g ref="char:EOLhyphen"/>ly contract the Guilt of the Crime committed, but al<g ref="char:EOLhyphen"/>ſo bear upon his Soul the Guilt of the Sin of Perjury, and ſo incur the manifeſt Danger of eternal Damnati<g ref="char:EOLhyphen"/>on.) And therefore all ye that are concern'd, as ye tender the Honour of Almighty GOD, and the Sal<g ref="char:EOLhyphen"/>vation of your own Souls (which you pledge in your Oath) deal in all Things ſincerely and truly, <hi>ſpeak<g ref="char:EOLhyphen"/>ing,</hi>
+               <note place="margin">Pſal. 15.2.</note> as becomes an <hi>Heir of Heaven, the Truth in your Heart;</hi> that Juſtice and Judgment may be rightly exe<g ref="char:EOLhyphen"/>cuted, and you, when you ſhall ſtand before the Tri<g ref="char:EOLhyphen"/>bunal of GOD, may appear with Poldneſs, and give up your Accounts with Joy.</p>
+            <pb n="33" facs="tcp:62732:21"/>
+            <p>For thereis a <hi>Great Day</hi> a coming, when all the World ſhall be ſummon'd to appear before the <hi>Judgment-Seat of GOD.</hi>
+               <note place="margin">Rom. 14.10.</note> Never was there ſo <hi>Great an Aſſembly</hi> as that, and never ſhall there be any ſo great after it. All the <hi>Kings, Rulers, and Judges</hi> of the Earth, ſhall meet together at that Day: yea, then ſhall all men, both the <hi>Righteous and the Wicked,</hi> both the <hi>Living and the Dead,</hi> ſtand before the Face of the Judge, by his Sen<g ref="char:EOLhyphen"/>tence to be ſeparated one from another, to receive their <hi>Reward or Puniſhment</hi> in their proper Place, from whence they ſhall never return to meet a<g ref="char:EOLhyphen"/>gain or ſee one anothers Faces more. This was repreſented in Viſion to St. <hi>John,</hi> who thus re<g ref="char:EOLhyphen"/>ports what he ſaw;
+<note place="margin">Rev. 20.11, 12.</note> 
+               <hi>I ſaw</hi> (ſaith he) <hi>a Great white Throne, and Him that ſate on it, from whoſe Face the Earth and the Heaven fled away, and there was found no Place for them. And I ſaw the Dead, ſmall and great, ſtand before GOD. And the Books were open'd; and another Book was open'd, which is the Book of Life. And the Dead were judg'd out of thoſe Things which were written in the Books, accord<g ref="char:EOLhyphen"/>ing to their Works.</hi> What was thus repreſented in <hi>Viſion,</hi> ſhall at length be executed in <hi>Reality;</hi> and we who are here preſent this Day, ſhall make a Part of that <hi>great Appearance.</hi> It infinitely con<g ref="char:EOLhyphen"/>cerns us all to prepare for it, for our <hi>everlaſting State</hi> whether of Happineſs or Miſery will be de<g ref="char:EOLhyphen"/>termin'd by that Sentence or Doom, that ſhall be paſs'd on us at that Day. We ſhall then ei<g ref="char:EOLhyphen"/>ther with unſpeakable Joy, hear the Judge ſay to us, <hi>Come, ye Bleſſed, inherit the Kingdom;</hi>
+               <note place="margin">Mat. 25.34, 41.</note> or with unutterable. Horrour and Anguiſh hear thoſe diſ<g ref="char:EOLhyphen"/>mall
+<pb n="34" facs="tcp:62732:22"/>mall Words, <hi>Depart, ye Curſed, into everlaſting Fire.</hi> Happy are we this Day, that we have yet Time allow'd us, thro' GOD's indulgent Mercy, to pre<g ref="char:EOLhyphen"/>pare for that Appearance. Happy are we, if we have any of us hitherto walked in ſinfull Waies, that GOD is pleaſed this Day to call to us from Heaven in His Holy Word,
+<note place="margin">Ezck. 18.23, 32.</note> ſaying, <hi>Return and Live.</hi> Let's remember, all our <hi>Words</hi> and <hi>Acti<g ref="char:EOLhyphen"/>ons</hi> are recorded in thoſe <hi>Books,</hi> which ſhall be lay'd open at that Day. Let us then ſo <hi>ſpeak and do</hi> now, that we may not be aſraid or aſham'd that our Words and Deeds ſhould be openly declar'd before all the World then.</p>
+            <p>Let's then look upon the Court of Juſtice, the <hi>Congregation of the Mighty</hi> this Day, wherein <hi>GOD ſtands and judges amongſt the Gods,</hi> as a lively Image of that <hi>Great Aſſiſe,</hi> wherein we ſhall all ſtand before the Tribunall of GOD; whom tho' we now ſee not, we ſhall then behold, manifeſting Himſelf to us in the Humane Nature, but with Great Majeſty and Glory, in the Perſon of <hi>CHRIST.
+<note place="margin">2 Cor. 5.10.</note> For we muſt all appear before the Judg<g ref="char:EOLhyphen"/>ment-Seat of Chriſt, that every one may receive the things done in his Body, according to that he hath done, whether it be good or bad.</hi> Then, as in the Court of Juſtice we ſee the Judge ſitting on the Bench, attended on either Hand with ſeverall Perſons of Prime Quality, veſted with Judiciary Power, we ſhall ſee <hi>the Son of man</hi> (the Lord <hi>Jeſus Christ</hi>) <hi>ſitting in the Throne of his Glory,
+<note place="margin">Mat. 19.28. &amp; Luk. 22.30.</note> and with Him his Twelve Apoſtles,
+<note place="margin">1 Cor. 6.2, 3.</note> ſitting upon twelve Thrones, judging the twelve Tribes of Iſrael.</hi> Then <hi>ſhall the Saints,</hi> by their Aſſociation to Chriſt, and Appro<g ref="char:EOLhyphen"/>bation
+<pb n="35" facs="tcp:62732:22"/>of his Sentence, have the Honour to <hi>judge Angels, to judge the World.</hi> How glorious a Day will that be to the Juſt! For <hi>when Chriſt,</hi>
+               <note place="margin">Col. 3.4.</note> the Judge, <hi>appears, they ſhall alſo appear with Him in Glory.</hi> But how terrible, how dreadfull will it be to the Wicked! When we ſee a Guilty man looking pale at the Bar, while the Judge is pro<g ref="char:EOLhyphen"/>nouncing the Sentence of Death upon him, let's think with our ſelves, with what Horrour and Trembling will Guilty Sinners appear at the Great Day before the Tribunall of Chriſt, when the irrevocable Sentence ſhall be paſſed upon them, whereby they ſhall be adjudg'd, to the Suffering of the bitter Pains of eternal Death! Oh how will they wring their Hands for Sorrow and Anguiſh of Heart, wiſhing they had never, never bene born, rather than by a Life of Sin, which was but for a Moment, have plung'd themſelves into thoſe unutterable Sorrows, thoſe intolerable Torments which ſhall laſt to Eternity! Now what conſidering man would for the <hi>Gain of the whole World,</hi> nay for a Thouſand Worlds be in the wofull State of a Guilty Sinner at the Judgment-Day?</p>
+            <p>
+               <hi>If a Picture of the Day of Judgment</hi> (as it is ſaid) became the Means of the Converſion of a barbarous
+<note n="*" place="margin">
+                  <hi>Bogaris</hi> King of <hi>Bulgaria.</hi>
+               </note> King to true Chriſtianity; how much more powerfull and efficacious ſhould ſo <hi>lively an Image</hi> and Repreſentation thereof, as is a Court of Juſtice, wherein the Judge ſits upon Life and Death, be for the Converſion of men to GOD, for the Perſuaſion of thoſe who have hitherto liv'd in Sin and Wickedneſs, to break off their
+<pb n="36" facs="tcp:62732:23"/>evil Courſes, and lead a New Life? Yea, let the Conſideration of the Coming of <hi>the Great and Dreadfull Day of the LORD,</hi>
+               <note place="margin">Mal. 4.5.</note> awake us all to a ſpeedy and ſerious Care for the Salvation of our immortal Souls. Let's make our Peace with GOD, by a hearty Repentance for our paſt Of<g ref="char:EOLhyphen"/>fences; and earneſtly implore the Aids of His Grace, that we may honour Him for the Time to come by a better Obedience. Let the <hi>Fear</hi> of a deſerved <hi>Puniſhment</hi> reſtrain us from Vice and Sin, and the <hi>Hope</hi> of a Glorious <hi>Reward</hi> quicken us to an unwearied Diligence in well doing. Let's ſo manage every Action and Affair of Im<g ref="char:EOLhyphen"/>portance, as if we ſhould be immediately ſum<g ref="char:EOLhyphen"/>mon'd to Judgment. Let's demean our ſelves every Day of our Lives with ſuch a Holy Circum<g ref="char:EOLhyphen"/>ſpection, as if we look'd every Day, every Night when this Great Day ſhould begin.
+<note place="margin">2 Pet. 2.10, 11, 12.</note> For, <hi>the Day of the LORD will come as a Thief in the Night, in the which the Heavens ſhall paſs away with a great Noiſe, and the Elements ſhall melt with fervent Heat; the Earth alſo, and the Works that are therein, ſhall be burnt up. Seeing then that all theſe Things ſhall be diſſolv'd. What manner of Per<g ref="char:EOLhyphen"/>ſons ought we to be in all Holy Converſation and Godlineſs?
+<note place="margin">Heb. 12.28, 29.</note> Let's then have Grace that we may ſerve GOD acceptably, with Reverence and God<g ref="char:EOLhyphen"/>ly Fear. For our GOD is a conſuming Fire.</hi> And then when that Great Day is come we ſhall appear before GOD, our Judge, with <hi>ex<g ref="char:EOLhyphen"/>ceeding Joy,</hi>
+               <note place="margin">1 Pet. 4.13.</note> and being there openly honour'd before men and Angels, by His gracious Ac<g ref="char:EOLhyphen"/>knowledgement of our Services and Suffer<g ref="char:EOLhyphen"/>ings for His Name and Glory, we ſhall aſcend
+<pb n="37" facs="tcp:62732:23"/>in Triumph into His eternall Kingdom, where we ſhall for ever live and reign with our Bleſ<g ref="char:EOLhyphen"/>ſed Lord and Saviour <hi>JES<g ref="char:V">Ʋ</g>S CHRIST;</hi> To whom be Majeſty, Dominion, and Glory, now and for evermore; <hi>AMEN.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62732:24"/>
+            <pb facs="tcp:62732:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
